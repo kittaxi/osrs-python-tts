@@ -9,7 +9,7 @@ https://youtu.be/zPkyO4PbhyU
 
 1. TTS generation using the [gTTS](https://pypi.org/project/gTTS/) module
 2. TTS playback using the [python-vlc](https://pypi.org/project/python-vlc/) module
-3. Chat logs generated with the [Chat Logger](https://github.com/hex-agon/chat-logger) Runelite plugin created by hex-agon
+3. Chat logs generated with the [Chat Logger](https://github.com/hex-agon/chat-logger) Runelite plugin created by hex-agon & sololegends
   
 The chat logs are purged on every script startup to avoid silly behavior.
 <br /> <br />
